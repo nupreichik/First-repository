@@ -1,3 +1,3 @@
-# Git and GitHub Cource
+# Git and GitHub cource
 
-My neme is BigSam
+Crash cource for Git
